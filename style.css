@@ -1,0 +1,73 @@
+.tools-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#monopoly {
+  color: #32CD32;
+}
+
+.member {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.html {
+  color: #FF7F50;
+}
+
+.sass {
+  color: #bf4080;
+}
+
+.typescript {
+  color: #3178c6;
+}
+
+.webpack {
+  color: #8dd6f9;
+}
+
+.eslint {
+  color: #5b5be0;
+}
+
+.raci {
+  width: 70%;
+}
+
+.monopoly-img {
+  width: 20%;
+}
+
+.green {
+  color: #32CD32;
+}
+
+.gold {
+  color: #FFD700;
+}
+
+.skype {
+  width: 40%;
+}
+
+.telegram {
+  width: 28%;
+}
+
+.photo {
+  width: 167px;
+  border-radius: 50%;
+}
+
+.photo-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.photo-description {
+  font-size: 30px;
+}
